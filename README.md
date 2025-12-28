@@ -29,3 +29,7 @@ Designing photonics circuits requires finding the optimal "Goldilocks zone" betw
 ## Example
 If everything is done correctly you should get something that looks like this:
 <img width="1504" height="1153" alt="Automate Wafer Map" src="https://github.com/user-attachments/assets/1a6f9d82-3583-4992-928e-2c0f6bc1309f" />
+
+## Credit
+I got this project from Kraggle.com where someone uploaded the csv that I have in this repository. 
+Link to the Kraggle: https://www.kaggle.com/datasets/assylkhannurgali/mrr-parameters
